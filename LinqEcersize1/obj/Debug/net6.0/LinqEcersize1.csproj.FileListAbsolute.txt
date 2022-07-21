@@ -1,0 +1,15 @@
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\bin\Debug\net6.0\LinqEcersize1.exe
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\bin\Debug\net6.0\LinqEcersize1.deps.json
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\bin\Debug\net6.0\LinqEcersize1.runtimeconfig.json
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\bin\Debug\net6.0\LinqEcersize1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\bin\Debug\net6.0\LinqEcersize1.pdb
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\LinqEcersize1.csproj.AssemblyReference.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\LinqEcersize1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\LinqEcersize1.AssemblyInfoInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\LinqEcersize1.AssemblyInfo.cs
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\LinqEcersize1.csproj.CoreCompileInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\LinqEcersize1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\refint\LinqEcersize1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\LinqEcersize1.pdb
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\LinqEcersize1.genruntimeconfig.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningLinq\LinqEcersize1\LinqEcersize1\obj\Debug\net6.0\ref\LinqEcersize1.dll
